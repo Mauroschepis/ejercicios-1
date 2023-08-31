@@ -5,3 +5,6 @@ if sueldo<=1000:
     print(sueldo)
 else:
     print('no recibe aumento')
+
+    
+
